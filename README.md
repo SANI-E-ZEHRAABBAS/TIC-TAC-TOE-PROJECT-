@@ -36,15 +36,6 @@ This project runs in the **console/terminal** and allows two human players to co
    Draw (board is full with no winner)
    The result is displayed in the console.
 
-📷 Example Gameplay
-  1 | 2 | 3
- ---+---+---
-  4 | 5 | 6
- ---+---+---
-  7 | 8 | 9
-
-Player X, enter your move (row and column): 1 1
-Player O, enter your move (row and column): 2 2
 ...
 📌Future Improvements
 Add single-player mode with AI
